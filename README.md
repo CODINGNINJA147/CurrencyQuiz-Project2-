@@ -1,4 +1,4 @@
-# CurrencyQuiz-Project2-
+# A CLI QUIZ APP (markOne)
 
 A CLI QUIZ APP
 
